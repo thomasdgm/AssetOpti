@@ -42,9 +42,8 @@
 
 ```text
 Site_Quant/
-├── Quant_app.py        # Main Streamlit dashboard, custom CSS, and Plotly visualizations
+├── app.py              # Main Streamlit dashboard, custom CSS, and Plotly visualizations
 ├── function.py         # Quantitative finance engine (optimization, risk metrics, CPPI, Monte Carlo)
-├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
 ```
 
