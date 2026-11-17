@@ -54,12 +54,6 @@ git clone https://github.com/thomasdgm/AssetOpti.git
 cd <nom-du-depot>
 ```
 
-### Install dependencies
-
-```text 
-pip install -r requirements.txt
-```
-
 ### Run the application
 
 ```text
