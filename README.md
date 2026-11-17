@@ -48,20 +48,20 @@ Site_Quant/
 └── README.md           # Project documentation
 ```
 
-## Installation
+## Installation & Usage
 
 ```text
-git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/thomasdgm/AssetOpti.git
+cd <nom-du-depot>
 ```
 
-# Install dependencies
+### Install dependencies
 
 ```text 
-pip install -r requirements.txt ```
+pip install -r requirements.txt
 ```
 
-# Run the application
+### Run the application
 
 ```text
 streamlit run app.py 
